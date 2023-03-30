@@ -145,7 +145,12 @@ span {
 
 .top-image {
     position: relative;
-    bottom: 0px;
+    left: 310px;
+    top: 25px;
+}
+
+.left-top-image {
+    margin-right: 410px ;
 }
 
 .pricing-section {
